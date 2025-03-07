@@ -163,19 +163,23 @@ Lets P_min_salary =50 000  and P_max_salary = 90 000
 ---
 
  p1---Base on the Bar chart:
+ 
       -we can see that in 1990,there was less than 20 000 employees in the company while in 2002 there was more than 140 000 employees. 
       -The increase in the number of workers year by year have been  constant
       -The ratio of male and female has been approximately constant : Male 60% and Female 40%
 
  p2---Base on the area chart
+ 
       -Globally there is a constant increase from year to year of both male and female managers from 1990 to 1998
       -Globally over the years ,the increase in the number of male managers is always higher than that of female managers 
 
  p3---Base on the line chart
+ 
        - Salaries have been augmenting constantly for any department
        - The average salaries of male and female employees were approximately similar until 1993, and  after that male employees were paid more , with a few thousand of difference per year
 
  P4--- Base on the double bar chart
+ 
        - Both the average female and male salary was relatively high,  above  60 000 for the finance, marketing and sales departments
  
 
