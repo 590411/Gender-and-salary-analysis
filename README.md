@@ -1,5 +1,5 @@
 
-# Evolutive analysis  of humain resource in term of gender and salaries
+# Evolutive analysis of humain resource in term of gender and salaries
 
 ## Table of Content
 -  [Project Overview](#project-overview)
@@ -15,11 +15,20 @@
 
 **Delivrables**
 
-  p1-create a visualization that provides a breakdown between male and female employees working in the company each year , starting from 1990
-	p1-Compare the number of male managers to the number of female managers from different departments for each year, starting from 1990
-  p2-compare the number of male managers to the  number of female managers from different departments for each year starting from 1990
-  P3-Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department
-  P4-Find the average male and female salary per department within a certain salary range .Let this range be defined by two values the user can insert . Finally, visualize the obtained result-set in tableau as a double bar chart
+- p1-create a visualization that provides a breakdown between male and female employees working in the company each year , starting from 1990
+- p2-compare the number of male managers to the  number of female managers from different departments for each year starting from 1990
+- P3-Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department
+- P4-Find the average male and female salary per department within a certain salary range .Let this range be defined by two values the user can insert . Finally, visualize the obtained result-set in tableau as a double bar chart.
+  
+![ERD](https://github.com/user-attachments/assets/1be83c39-12eb-40d5-8b6c-cbe81b805dd3)
+
+![Dashbaord2](https://github.com/user-attachments/assets/2d36c88c-7446-4583-b06b-52bdc506c64b)
+
+![dashboard3](https://github.com/user-attachments/assets/c43b96b9-004e-42b9-9e79-05bf84b1776b)
+
+![Dashboard4](https://github.com/user-attachments/assets/5090acfd-6c9f-4686-b1dd-b990b0d637a4)
+
+![Dashbaord5](https://github.com/user-attachments/assets/308d9688-b14b-4b8f-8697-7d305a611513)
 
 
  ### Data sources
